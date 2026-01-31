@@ -1,8 +1,8 @@
 class SpmAudit < Formula
   desc "Audit and update Swift Package Manager dependencies"
   homepage "https://github.com/Rspoon3/spm-audit"
-  url "https://github.com/Rspoon3/spm-audit/archive/refs/tags/0.1.0.tar.gz"
-  sha256 "0a33c61600a64d33b39303249bb6155814b9bcc240d41025e80634ab29dffb8e"
+  url "https://github.com/Rspoon3/spm-audit/archive/refs/tags/0.1.1.tar.gz"
+  sha256 "cad41118e39a849b06b26a568936f4cb789e5a2221f002dceb5d7962aa3469c3"
   license "MIT"
 
   depends_on xcode: ["14.0", :build]
